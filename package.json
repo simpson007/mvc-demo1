@@ -1,0 +1,11 @@
+{
+  "name": "mvc-demo1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:simpson007/nav-1.git",
+  "author": "simpson <13951719485@163.com>",
+  "license": "MIT",
+  "dependencies": {
+    "jquery": "^3.6.0"
+  }
+}
